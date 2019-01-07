@@ -15,6 +15,7 @@ img {
 .btn {
   border-style: solid;
   border-color: #97a49b;
+  color: #fff;
 }
 
 .btn-hover {
